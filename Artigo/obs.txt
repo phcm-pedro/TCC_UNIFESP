@@ -1,0 +1,15 @@
+INTRODUÇÂO:
+ML pode ser eficiente, os resultados indicam que podem ser eficientes, dar uma abaixada no tom
+OBJ PRINC: Comparar em estratégias baseadas em ávores: dar destaque em XGBoosting x outros, especionar nao apenas metricas de interesse clinico, não se restringir aos reusltados mas tentar interpretar
+dados de fácil acesso. Destacar a interpretabilidade do calssificador
+
+
+Analise de dados: Não precisa falar de outliers, falar de remover erros de registros, não fazem tratamento da qualidade dos dados
+
+Avaliação de performance: resumir, falar só que po xgboost foi melhor em quase todas as metricas
+
+Interpretação dom algoritmo xgboostig
+
+conclusão : fonte maior, Xgboosting algoritmo com portencial, é possìvel extrair desempenho interpretavel a partir de dados de fácil acesso em pesquisas transversais,
+se atentar a metodologia de aplicação de algoritmos de machine learning,
+o projeto de um classificador se atentar em ir além de codificaçâo e avaliação de acurácia
